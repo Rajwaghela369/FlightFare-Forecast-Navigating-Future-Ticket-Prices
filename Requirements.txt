@@ -2,3 +2,6 @@ pandas
 numpy
 scipy 
 sklearn
+BeautifulSoup4
+request
+selenium
