@@ -1,7 +1,11 @@
 pandas
 numpy
-scipy 
+nltk
+plotly
+seaborn
+matplotlib
 sklearn
-BeautifulSoup4
 request
 selenium
+newspaper3k
+tranformers
