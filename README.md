@@ -6,9 +6,9 @@
 ## 2. Data Scraping
 ## 3. Data preprocessing
 ## 4. ML pipeline 
-### ** i. Models: 
-### **      a. Random forest Classifier
-### **     b. MultibinomialNB
-### **     c. SVC (or SVM)
+### - i. Models: 
+### -      a. Random forest Classifier
+### -     b. MultinomialNB
+### -     c. SVC (or SVM)
 ## 5. Models Comparison
 ## 6. Results
