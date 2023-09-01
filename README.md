@@ -10,3 +10,5 @@
 ###      a. Random forest Classifier
 ###      b. MultibinomialNB
 ###      c. SVC (or SVM)
+## 5. Models Comparison
+## 6. Results
