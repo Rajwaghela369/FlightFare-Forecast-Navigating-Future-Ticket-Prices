@@ -1,2 +1,2 @@
-# News Classification and Summarization 
-### (News reader)
+# 📰 News Classification and Summarization 📚
+### (NewsReader)
