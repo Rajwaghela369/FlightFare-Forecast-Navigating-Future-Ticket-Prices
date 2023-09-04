@@ -1,4 +1,4 @@
-# 📰 News Classification and Summarization 📚
+# News Classification and Summarization
 ### (NewsReader Task)
 ## Description:
 ## 1. Install the required dependencies:
