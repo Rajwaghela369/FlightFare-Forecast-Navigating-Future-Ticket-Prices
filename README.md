@@ -36,8 +36,6 @@ This dataset originates from web scraping Google News, a prominent news source a
 **3. Support Vector Classifier**
 
 ## 5. Models Comparison:
-[![Accuracy Plot]([News-Reader
-/Assets/Screenshot 2023-09-16 at 01.40.43.png](https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/Screenshot%202023-09-16%20at%2001.40.43.png?raw=true)
-](https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/Screenshot%202023-09-16%20at%2001.40.43.png?raw=true)https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/Screenshot%202023-09-16%20at%2001.40.43.png?raw=true
+![Accuracy Plot](https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/Screenshot%202023-09-16%20at%2001.40.43.png?raw=true)
 ## 6. Results:
 
