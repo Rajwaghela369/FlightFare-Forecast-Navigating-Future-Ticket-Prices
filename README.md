@@ -36,6 +36,7 @@ This dataset originates from web scraping Google News, a prominent news source a
 **3. Support Vector Classifier**
 
 ## 5. Models Comparison:
+![Accuracy Plot]()
 
 ## 6. Results:
 
