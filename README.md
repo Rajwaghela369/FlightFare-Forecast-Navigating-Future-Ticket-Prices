@@ -37,7 +37,7 @@ This dataset originates from web scraping Google News, a prominent news source a
 
 ## 5. Models Comparison:
 ![Accuracy Plot](News-Reader
-/Assets/)
+/Assets/Screenshot 2023-09-16 at 01.40.43.png)
 
 ## 6. Results:
 
