@@ -2,10 +2,10 @@ pandas
 numpy
 nltk
 plotly
-seaborn
 matplotlib
 sklearn
 request
 selenium
 newspaper3k
 tranformers
+Streamlit
