@@ -39,4 +39,5 @@ This dataset originates from web scraping Google News, a prominent news source a
 ![Accuracy Plot](https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/Screenshot%202023-09-16%20at%2001.40.43.png?raw=true)
 ## 6. Results:
 ![Static result]([https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/app%20%C2%B7%20Streamlit.pdf](https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/app%20%C2%B7%20Streamlit-1.jpg))
+
 ![Static result2]([https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/app%20%C2%B7%20Streamlit.pdf](https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/app%20%C2%B7%20Streamlit-2.jpg)https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/app%20%C2%B7%20Streamlit-2.jpg)
