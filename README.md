@@ -36,6 +36,7 @@ This dataset originates from web scraping Google News, a prominent news source a
 **3. Support Vector Classifier**
 
 ## 5. Models Comparison:
+Support Vector Classifer Leads out other models with the accuracy rate of 94%.
 ![Accuracy Plot](https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/Screenshot%202023-09-16%20at%2001.40.43.png?raw=true)
 ## 6. Result:
 ![static result1](https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/app%20%C2%B7%20Streamlit-1.jpg?raw=true)
