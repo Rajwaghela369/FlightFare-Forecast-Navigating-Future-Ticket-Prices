@@ -1,6 +1,6 @@
 # News Classification and Summarization
 ## Aim:
-The aim of this machine learning project is to develop a robust and efficient system that can automatically classify   textual data into predefined categories and generate concise and coherent summaries of the text.
+It aim to develop a robust and efficient system that can automatically classify   textual data into predefined categories and generate concise and coherent summaries of the text.
 ## Description:
 This machine learning project focuses on automating two vital tasks for news articles: text classification and summarization. It aims to efficiently categorize unstructured news text, collected from source 'Google News', into predefined categories while also generating clear and concise summaries. By using state-of-the-art machine learning techniques, the project aims to build a robust classification model and pretrained model for summarization. Ensuring fairness and unbiased results are a priority in this project. Ultimately, the goal is to empower users in the field of news analysis to manage and extract valuable insights from news articles, improving their ability to stay informed and make informed decisions in an ever-changing news landscape.
 ## 1. Install the required dependencies:
