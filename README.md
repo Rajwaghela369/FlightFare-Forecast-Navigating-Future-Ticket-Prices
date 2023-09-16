@@ -40,4 +40,4 @@ This dataset originates from web scraping Google News, a prominent news source a
 ## 6. Results:
 ![static result1](https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/app%20%C2%B7%20Streamlit-1.jpg?raw=true)
 
-![static result2](https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/app%20%C2%B7%20Streamlit-2.jpg?raw=true)
+![result2](https://github.com/Rajwaghela369/News-Reader/blob/main/Assets/app%20%C2%B7%20Streamlit-2.jpg?raw=true)
